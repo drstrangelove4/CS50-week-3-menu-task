@@ -1,0 +1,1 @@
+Tried to do it from scratch without the CS50 header. Strings are hard in C. I'm still not sure on my solution where I manually flush a "buffer" every iteration of a loop but it works as far as I can tell.
